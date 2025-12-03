@@ -1,0 +1,98 @@
+{
+  "last_build_time": 1764751806746,
+  "last_update_time": 1764751806746,
+  "last_bal_toml_update_time": 1764750893150,
+  "distribution_version": "2201.13.1",
+  "last_modified_time": {
+    "devantssamples": 1764750947713
+  },
+  "last_build_options": {
+    "testReport": false,
+    "codeCoverage": false,
+    "skipTests": true,
+    "compilationOptions": {
+      "experimental": false,
+      "cloud": "",
+      "dumpGraph": false,
+      "dumpRawGraphs": false
+    }
+  },
+  "src_meta_info": [
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\agents.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764750902206
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\automation.bal",
+      "hash": "8e0e97e0c7c2198326164916003170d9c29e35e7227ba8ec05c1e5fed77d7585",
+      "size": 237,
+      "lastModifiedTime": 1764750947713
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\Ballerina.toml",
+      "hash": "e83ecc296bf10fde06d9f9dd3caa5fbf7d0561741c64f03b4e42d40c662a5941",
+      "size": 66,
+      "lastModifiedTime": 1764750893150
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\config.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764750902206
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\connections.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764750902206
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\data_mappings.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764750902207
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\functions.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764750902207
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\main.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764750902207
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\devants_samples\\types.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764750902208
+    }
+  ],
+  "target_exec_meta_info": {
+    "file": "C:\\Users\\niduniDK\\my\\devants_samples\\target\\backup\\bin\\devantssamples.jar",
+    "hash": "b01822efbe8e9c964dc2a6770c009509cceaa7b76f68ad0b38d885ad6050e146",
+    "size": 11311403,
+    "lastModifiedTime": 1764751807545
+  },
+  "settings_meta_info": {
+    "file": "C:\\Users\\niduniDK\\.ballerina\\Settings.toml",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "lastModifiedTime": 1764742692922
+  },
+  "ballerina_toml_meta_info": {
+    "file": "C:\\Users\\niduniDK\\my\\devants_samples\\Ballerina.toml",
+    "hash": "e83ecc296bf10fde06d9f9dd3caa5fbf7d0561741c64f03b4e42d40c662a5941",
+    "size": 66,
+    "lastModifiedTime": 1764750893150
+  },
+  "imports": [
+    "ballerina/io",
+    "ballerina/log"
+  ]
+}
